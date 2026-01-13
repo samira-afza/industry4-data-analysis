@@ -59,15 +59,14 @@ reproducible analysis.
 ### Research Maturity Distribution
 Shows how research articles are distributed across maturity stages.
 
-![Maturity Distribution](powerbi/screenshots/maturity_distribution.png)
+
 
 ---
 
-### Research Maturity Trends Over Time (2015–2022)
+### Research Maturity Trends Over Time (2014–2022)
 
 Illustrates how research maturity evolves over time across the four maturity stages.
 
-![Maturity Trend](powerbi/screenshots/maturity_trend.png)
 
 ---
 
@@ -76,7 +75,7 @@ Illustrates how research maturity evolves over time across the four maturity sta
 Displays the yearly composition of research maturity stages, highlighting shifts between
 Mature, Emerging, Buzz, and Weak research.
 
-![Stage by Year](powerbi/screenshots/stage_by_year.png)
+
 
 ---
 
@@ -85,7 +84,7 @@ Mature, Emerging, Buzz, and Weak research.
 Compares GPT-based classification results with manual expert labels to evaluate agreement
 and identify misclassification patterns.
 
-![GPT Agreement](powerbi/screenshots/gpt_agreement.png)
+
 
 ---
 
@@ -112,3 +111,4 @@ In contrast, this repository focuses on SQL-based descriptive and temporal trend
 and Power BI visualizations to transparently demonstrate core data analysis skills.
 
 ---
+
