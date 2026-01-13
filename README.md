@@ -92,8 +92,11 @@ and identify misclassification patterns.
 
 ⦁	Research activity shifts between maturity stages over time, reflecting cycles of
    technological emergence, hype, and consolidation.
+   
 ⦁	Emerging and Buzz topics increase during periods of intensified research attention.
+
 ⦁	GPT-based classification shows partial agreement with human expert judgment.
+
 ⦁	Misclassifications occur most frequently between Buzz and Mature stages, indicating
    sensitivity to terminology rather than validated technological maturity.
 
@@ -111,4 +114,5 @@ In contrast, this repository focuses on SQL-based descriptive and temporal trend
 and Power BI visualizations to transparently demonstrate core data analysis skills.
 
 ---
+
 
